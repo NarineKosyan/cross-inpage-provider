@@ -29,9 +29,9 @@
     "start": "tsc --watch"
   },
   "dependencies": {
-    "@onekeyfe/cross-inpage-provider-core": "2.2.16",
-    "@onekeyfe/cross-inpage-provider-errors": "2.2.16",
-    "@onekeyfe/cross-inpage-provider-types": "2.2.16",
+    "@onekeyfe/cross-inpage-provider-core": "file:../../core",
+    "@onekeyfe/cross-inpage-provider-errors": "file:../../errors",
+    "@onekeyfe/cross-inpage-provider-types": "file:../../types",
     "@onekeyfe/extension-bridge-injected": "2.2.16",
     "@solana/wallet-standard-features": "^1.1.0",
     "@solana/web3.js": "^1.98.0",

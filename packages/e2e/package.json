@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "@onekeyfe/cross-inpage-provider-injected": "2.2.16",
-    "@onekeyfe/cross-inpage-provider-types": "2.2.16",
+    "@onekeyfe/cross-inpage-provider-types": "file:../cross-inpage-provider/packages/types",
     "@onekeyfe/inpage-providers-hub": "2.2.16",
     "lodash-es": "^4.17.21"
   },

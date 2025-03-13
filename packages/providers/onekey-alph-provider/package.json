@@ -32,9 +32,9 @@
     "@alephium/get-extension-wallet": "^1.5.2",
     "@alephium/walletconnect-provider": "^1.5.2",
     "@alephium/web3": "^1.5.2",
-    "@onekeyfe/cross-inpage-provider-core": "2.2.16",
-    "@onekeyfe/cross-inpage-provider-errors": "2.2.16",
-    "@onekeyfe/cross-inpage-provider-types": "2.2.16",
+    "@onekeyfe/cross-inpage-provider-core": "file:../../core",
+    "@onekeyfe/cross-inpage-provider-errors": "file:../../errors",
+    "@onekeyfe/cross-inpage-provider-types": "file:../../types",
     "@onekeyfe/extension-bridge-injected": "2.2.16",
     "patch-package": "^8.0.0"
   }
