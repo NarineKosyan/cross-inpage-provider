@@ -5,7 +5,7 @@
 		"cross-inpage-provider"
 	],
 	"author": "dev-fe@onekey.so",
-	"repository": "https://github.com/OneKeyHQ/cross-inpage-provider",
+	"repository": "https://github.com/NarineKosyan/cross-inpage-provider",
 	"license": "Apache-2.0",
 	"publishConfig": {
 		"access": "public"

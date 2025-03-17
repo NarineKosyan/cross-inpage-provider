@@ -5,7 +5,7 @@
     "cross-inpage-provider"
   ],
   "author": "dev-fe@onekey.so",
-  "repository": "https://github.com/OneKeyHQ/cross-inpage-provider",
+  "repository": "https://github.com/NarineKosyan/cross-inpage-provider",
   "license": "Apache-2.0",
   "publishConfig": {
     "access": "public"
@@ -31,7 +31,7 @@
     "@onekeyfe/cross-inpage-provider-core": "file:../../core",
     "@onekeyfe/cross-inpage-provider-errors": "file:../../errors",
     "@onekeyfe/cross-inpage-provider-types": "file:../../types",
-    "@onekeyfe/extension-bridge-injected": "2.2.16",
+    "@onekeyfe/extension-bridge-injected": "file:../../extension/extension-bridge-injected",
     "eth-rpc-errors": "^4.0.3",
     "uuid": "^8.3.2"
   },

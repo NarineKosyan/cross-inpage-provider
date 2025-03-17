@@ -5,7 +5,7 @@
     "cross-inpage-provider"
   ],
   "author": "dev-fe@onekey.so",
-  "repository": "https://github.com/OneKeyHQ/cross-inpage-provider",
+  "repository": "https://github.com/NarineKosyan/cross-inpage-provider",
   "license": "Apache-2.0",
   "publishConfig": {
     "access": "public"
@@ -49,10 +49,10 @@
   "dependencies": {
     "@onekeyfe/cross-inpage-provider-core": "file:../core",
     "@onekeyfe/cross-inpage-provider-types": "file:../types",
-    "@onekeyfe/desktop-bridge-injected": "2.2.15",
-    "@onekeyfe/extension-bridge-injected": "2.2.15",
-    "@onekeyfe/inpage-providers-hub": "2.2.15",
-    "@onekeyfe/native-bridge-injected": "2.2.15",
+    "@onekeyfe/desktop-bridge-injected": "file:../desktop/desktop-bridge-injected",
+    "@onekeyfe/extension-bridge-injected": "file:../extension/extension-bridge-injected",
+    "@onekeyfe/inpage-providers-hub": "file:../providers/inpage-providers-hub",
+    "@onekeyfe/native-bridge-injected": "file:../native/native-bridge-injected",
     "buffer": "^6.0.3",
     "crypto-browserify": "^3.12.0"
   }
