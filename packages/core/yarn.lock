@@ -30,8 +30,8 @@ __metadata:
 
 "@onekeyfe/cross-inpage-provider-events@file:../events::locator=%40onekeyfe%2Fcross-inpage-provider-core%40workspace%3A.":
   version: 2.2.16
-  resolution: "@onekeyfe/cross-inpage-provider-events@file:../events#../events::hash=9d5c56&locator=%40onekeyfe%2Fcross-inpage-provider-core%40workspace%3A."
-  checksum: 10c0/60e5e8eea7aab33bd5de0557570f91534b6745b9a98cd514d94fe5f73e119ef1d582899670209654686ba2e4f0d4c6890d165f01cb1dc3886d8e5d93c5f9cc49
+  resolution: "@onekeyfe/cross-inpage-provider-events@file:../events#../events::hash=38bd31&locator=%40onekeyfe%2Fcross-inpage-provider-core%40workspace%3A."
+  checksum: 10c0/4335e79dbdec5655d7073f2a5402fc966cd228df7540f45405c2a447535968846d18c96f6c5a2beff40226db89f5b7fe086d5534b132d1549540d5af5b036c53
   languageName: node
   linkType: hard
 

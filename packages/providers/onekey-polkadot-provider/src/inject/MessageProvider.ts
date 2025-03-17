@@ -26,7 +26,7 @@ function isUndefined(value?: unknown): value is undefined {
 }
 
 export default class MessageProvider implements InjectedProvider {
-  readonly _eventemitter: EventEmitter;
+  readonly _eventemitter: any;
 
   // Whether or not the actual extension background provider is connected
   _isConnected = false;
